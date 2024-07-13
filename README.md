@@ -39,7 +39,7 @@ To view and interact with the dashboard, you will need:
 
 ### Files Included
 - `Coffee Shop Sales.xlsx`
-- 
+
 ### Instructions
 1. **Open the Dashboard:**
    - Open `Coffee Shop Sales.xlsx` in Microsoft Excel.
